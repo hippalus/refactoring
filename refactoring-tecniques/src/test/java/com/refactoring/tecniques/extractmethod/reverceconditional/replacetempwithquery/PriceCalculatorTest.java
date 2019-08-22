@@ -1,4 +1,4 @@
-package com.refactoring.tecniques.extractmethod;
+package com.refactoring.tecniques.extractmethod.reverceconditional.replacetempwithquery;
 
 
 import  static  org.junit.jupiter.api.Assertions.*;

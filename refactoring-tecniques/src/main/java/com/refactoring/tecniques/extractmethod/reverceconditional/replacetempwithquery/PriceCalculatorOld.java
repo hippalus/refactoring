@@ -1,4 +1,4 @@
-package com.refactoring.tecniques.extractmethod;
+package com.refactoring.tecniques.extractmethod.reverceconditional.replacetempwithquery;
 
 public class PriceCalculatorOld {
 

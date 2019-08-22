@@ -1,5 +1,7 @@
-package com.refactoring.tecniques.extractmethod;
+package com.refactoring.tecniques.extractmethod.reverceconditional.replacetempwithquery;
 
+
+//Replace Conditional Dispatcher With Command
 public class PriceCalculatorNew {
 
 
